@@ -4,9 +4,6 @@ A computer-network simulation developed in Cisco Packet Tracer for an e-commerce
 
 The topology separates different organizational teams and services into five `/24` networks. It includes web, administration, support, data-center, and wireless zones connected through switches and a central router.
 
-## Network Topology
-
-![E-Commerce Data Center Network](screenshots/network-topology.png)
 
 ## Project Objectives
 
